@@ -1,0 +1,17 @@
+C:\Users\pkaez\source\repos\lab34\lab34\bin\Debug\lab34.exe.config
+C:\Users\pkaez\source\repos\lab34\lab34\bin\Debug\lab34.exe
+C:\Users\pkaez\source\repos\lab34\lab34\bin\Debug\lab34.pdb
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.csproj.AssemblyReference.cache
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.Form1.resources
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.FormTask1.resources
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.Properties.Resources.resources
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.csproj.GenerateResource.cache
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.csproj.CoreCompileInputs.cache
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.exe
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.pdb
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.FormTask2.resources
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.FormTask3.resources
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.FormTask4.resources
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.FormTask5.resources
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.FormTask6.resources
+C:\Users\pkaez\source\repos\lab34\lab34\obj\Debug\lab34.FormTask8.resources
